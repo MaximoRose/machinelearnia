@@ -1,0 +1,33 @@
+bonjourbatard
+bonjour
+batard0149162536496481
+0
+1
+4
+9
+16
+25
+36
+49
+64
+81
+0 au carre = 0
+1 au carre = 1
+2 au carre = 4
+3 au carre = 9
+4 au carre = 16
+5 au carre = 25
+6 au carre = 36
+7 au carre = 49
+8 au carre = 64
+9 au carre = 81
+0^2 = 0
+1^2 = 1
+2^2 = 4
+3^2 = 9
+4^2 = 16
+5^2 = 25
+6^2 = 36
+7^2 = 49
+8^2 = 64
+9^2 = 81
