@@ -1,7 +1,7 @@
 # machinelearnia
-mes codes de suivi des tuto de la chaine Machine Learnia :https://www.youtube.com/c/MachineLearnia
+Mes codes de suivi des tuto de la chaine Machine Learnia :https://www.youtube.com/c/MachineLearnia
 
-Il permettent de retrouver facilement quelques fonctions standards de Python.
+Ils permettent de retrouver facilement quelques fonctions standards de Python.
 
 
 ## Python 
