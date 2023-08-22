@@ -1,4 +1,4 @@
-# machinelearnia
+# Machine Learnia
 Mes codes de suivi des tuto de la chaine Machine Learnia :https://www.youtube.com/c/MachineLearnia
 
 Ils permettent de retrouver facilement quelques fonctions standards de Python.
